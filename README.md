@@ -10,14 +10,14 @@ The simple photo editor with few different filters. It is written on Java
 6. изменение размера изображения.
 При проектировании архитектуры приложения были использованы 4 паттерна проектирования: Prototype, Proxy, Command, Strategy.
 
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/1.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/2.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/3.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/4.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/5.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/6.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/7.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/8.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/9.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/10.jpg)
-![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/screenshots/11.jpg)
+
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/2.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/3.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/4.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/5.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/6.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/7.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/8.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/9.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/10.png)
+![Иллюстрация к проекту](https://github.com/olgasaliy/PhotoEditor/raw/master/screenshots/11.png)
